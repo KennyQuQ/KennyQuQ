@@ -29,49 +29,76 @@
     </tr>
   </thead>
   <tbody>
+    <!-- Education (Sophomore) -->
+    <tr>
+      <td align="center" style="padding:10px;"><strong>Education</strong></td>
+      <td align="center" style="padding:10px;">
+        <!-- Example badge with gradient from purple to pink -->
+        <img src="https://img.shields.io/badge/Sophomore-College-%23ff66ff?style=for-the-badge&amp;logoColor=white&amp;colorA=%235e5ce6&amp;colorB=%23ee66aa" alt="Sophomore" />
+      </td>
+    </tr>
+    
+    <!-- Interests (OS, Systems) -->
+    <tr>
+      <td align="center" style="padding:10px;"><strong>Interests</strong></td>
+      <td align="center" style="padding:10px;">
+        <img src="https://img.shields.io/badge/Operating%20Systems-%23ffffff?style=for-the-badge&amp;logo=linux&amp;logoColor=black&amp;colorA=%2305c9f9&amp;colorB=%2300d09c" alt="OS" />
+        <img src="https://img.shields.io/badge/System%20Programming-%23ffffff?style=for-the-badge&amp;logo=c&amp;logoColor=black&amp;colorA=%23f93ebd&amp;colorB=%2376308f" alt="System Programming" />
+        <!-- Add more badges for your specific OS/system interests -->
+      </td>
+    </tr>
+
+    <!-- Language / IDE -->
     <tr>
       <td align="center" style="padding:10px;"><strong>Language / IDE</strong></td>
       <td align="center" style="padding:10px;">
-        <!-- Badges generated from Shields.io -->
-        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" alt="C++" />
-        <img src="https://img.shields.io/badge/Elm-60B5CC?style=flat-square&logo=elm&logoColor=white" alt="Elm" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VSCode" />
-        <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white" alt="Vim" />
-        <img src="https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white" alt="Neovim" />
+        <img src="https://img.shields.io/badge/C++-white?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=white&amp;colorA=%2300599C&amp;colorB=%23004373" alt="C++" />
+        <img src="https://img.shields.io/badge/Elm-white?style=for-the-badge&amp;logo=elm&amp;logoColor=white&amp;colorA=%2360B5CC&amp;colorB=%23215785" alt="Elm" />
+        <img src="https://img.shields.io/badge/Python-white?style=for-the-badge&amp;logo=python&amp;logoColor=white&amp;colorA=%233776AB&amp;colorB=%232d5884" alt="Python" />
+        <img src="https://img.shields.io/badge/VS%20Code-white?style=for-the-badge&amp;logo=visual-studio-code&amp;logoColor=white&amp;colorA=%23007ACC&amp;colorB=%23005580" alt="VSCode" />
+        <img src="https://img.shields.io/badge/Vim-white?style=for-the-badge&amp;logo=vim&amp;logoColor=white&amp;colorA=%23019733&amp;colorB=%23008055" alt="Vim" />
+        <img src="https://img.shields.io/badge/Neovim-white?style=for-the-badge&amp;logo=neovim&amp;logoColor=white&amp;colorA=%2357A143&amp;colorB=%23306028" alt="Neovim" />
       </td>
     </tr>
+
+    <!-- Domain Knowledge -->
     <tr>
       <td align="center" style="padding:10px;"><strong>Domain Knowledge</strong></td>
       <td align="center" style="padding:10px;">
-        <img src="https://img.shields.io/badge/Computer%20Science-ff9900?style=flat-square" alt="Computer Science" />
-        <img src="https://img.shields.io/badge/Computer%20Engineering-ff9900?style=flat-square" alt="Computer Engineering" />
-        <img src="https://img.shields.io/badge/Electrical%20Engineering-0052cc?style=flat-square" alt="Electrical Engineering" />
+        <img src="https://img.shields.io/badge/Computer%20Science-white?style=for-the-badge&amp;colorA=%23ff9900&amp;colorB=%23b36200" alt="Computer Science" />
+        <img src="https://img.shields.io/badge/Computer%20Engineering-white?style=for-the-badge&amp;colorA=%23f56f00&amp;colorB=%23b34700" alt="Computer Engineering" />
+        <img src="https://img.shields.io/badge/Electrical%20Engineering-white?style=for-the-badge&amp;colorA=%230052cc&amp;colorB=%23003999" alt="Electrical Engineering" />
       </td>
     </tr>
+
+    <!-- CI / CD -->
     <tr>
       <td align="center" style="padding:10px;"><strong>CI / CD</strong></td>
       <td align="center" style="padding:10px;">
-        <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" alt="Markdown" />
-        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+        <img src="https://img.shields.io/badge/Markdown-white?style=for-the-badge&amp;logo=markdown&amp;colorA=%23000000&amp;colorB=%23424242" alt="Markdown" />
+        <img src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&amp;logo=github&amp;colorA=%23181717&amp;colorB=%230E0E0E" alt="GitHub" />
+        <img src="https://img.shields.io/badge/Git-white?style=for-the-badge&amp;logo=git&amp;colorA=%23F05032&amp;colorB=%23A0261E" alt="Git" />
       </td>
     </tr>
+
+    <!-- OS -->
     <tr>
       <td align="center" style="padding:10px;"><strong>OS</strong></td>
       <td align="center" style="padding:10px;">
-        <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white" alt="macOS" />
-        <img src="https://img.shields.io/badge/Arch-1793D1?style=flat-square&logo=arch-linux&logoColor=white" alt="Arch Linux" />
-        <img src="https://img.shields.io/badge/Manjaro-35BF5C?style=flat-square&logo=manjaro&logoColor=white" alt="Manjaro" />
-        <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu" />
-        <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows" />
+        <img src="https://img.shields.io/badge/macOS-white?style=for-the-badge&amp;logo=apple&amp;colorA=%23000000&amp;colorB=%23141414" alt="macOS" />
+        <img src="https://img.shields.io/badge/Arch-white?style=for-the-badge&amp;logo=arch-linux&amp;colorA=%231793D1&amp;colorB=%230f6a96" alt="Arch Linux" />
+        <img src="https://img.shields.io/badge/Manjaro-white?style=for-the-badge&amp;logo=manjaro&amp;colorA=%2335BF5C&amp;colorB=%2320753A" alt="Manjaro" />
+        <img src="https://img.shields.io/badge/Ubuntu-white?style=for-the-badge&amp;logo=ubuntu&amp;colorA=%23E95420&amp;colorB=%23A03313" alt="Ubuntu" />
+        <img src="https://img.shields.io/badge/Windows-white?style=for-the-badge&amp;logo=windows&amp;colorA=%230078D6&amp;colorB=%23004982" alt="Windows" />
       </td>
     </tr>
+
+    <!-- Terminal -->
     <tr>
       <td align="center" style="padding:10px;"><strong>Terminal</strong></td>
       <td align="center" style="padding:10px;">
-        <img src="https://img.shields.io/badge/Kitty-000000?style=flat-square" alt="Kitty" />
-        <img src="https://img.shields.io/badge/iTerm2-000000?style=flat-square" alt="iTerm2" />
+        <img src="https://img.shields.io/badge/Kitty-white?style=for-the-badge&amp;colorA=%23000000&amp;colorB=%23333333" alt="Kitty" />
+        <img src="https://img.shields.io/badge/iTerm2-white?style=for-the-badge&amp;colorA=%23000000&amp;colorB=%23333333" alt="iTerm2" />
       </td>
     </tr>
   </tbody>
