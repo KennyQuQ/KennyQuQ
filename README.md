@@ -1,12 +1,31 @@
-<h1 align="center">Hi there, I'm Kenny <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<style>
+  .animated-text {
+    animation: colorChange 5s infinite;
+  }
 
-<p align="center">
-  <a href="https://your-website.com">Website</a> •
-  <a href="https://twitter.com/yourhandle">Twitter</a> •
-  <a href="https://linkedin.com/in/yourprofile">LinkedIn</a> •
-  <a href="mailto:yourmail@domain.com">Email</a>
-</p>
+  @keyframes colorChange {
+    0% { color: #ff66ff; }
+    25% { color: #ee66aa; }
+    50% { color: #66ccff; }
+    75% { color: #99ff99; }
+    100% { color: #ff66ff; }
+  }
 
+  .animated-gif {
+    transition: transform 0.5s;
+  }
+
+  .animated-gif:hover {
+    transform: scale(1.2);
+  }
+</style>
+
+<h1 align="center" class="animated-text">
+  Hi there, I'm Kenny 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="Wave" class="animated-gif" />
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="35" alt="Smile" class="animated-gif" />
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="35" alt="Party" class="animated-gif" />
+</h1>
 ---
 <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
 <!--                      Fancy Anime Banner                      -->
