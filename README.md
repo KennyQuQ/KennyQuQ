@@ -82,7 +82,7 @@
       <td align="center" style="padding:10px;">
         <img src="https://img.shields.io/badge/macOS-white?style=for-the-badge&amp;logo=apple&amp;colorA=%23000000&amp;colorB=%23141414" alt="macOS" />
         <img src="https://img.shields.io/badge/Arch-white?style=for-the-badge&amp;logo=arch-linux&amp;colorA=%231793D1&amp;colorB=%230f6a96" alt="Arch Linux" />
-        <img src="https://img.shields.io/badge/Manjaro-white?style=for-the-badge&amp;logo=manjaro&amp;colorA=%2335BF5C&amp;colorB=%2320753A" alt="Manjaro" />
+<!--         <img src="https://img.shields.io/badge/Manjaro-white?style=for-the-badge&amp;logo=manjaro&amp;colorA=%2335BF5C&amp;colorB=%2320753A" alt="Manjaro" /> -->
         <img src="https://img.shields.io/badge/Ubuntu-white?style=for-the-badge&amp;logo=ubuntu&amp;colorA=%23E95420&amp;colorB=%23A03313" alt="Ubuntu" />
         <img src="https://img.shields.io/badge/Windows-white?style=for-the-badge&amp;logo=windows&amp;colorA=%230078D6&amp;colorB=%23004982" alt="Windows" />
       </td>
