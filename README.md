@@ -6,7 +6,7 @@
   <span role="img" aria-label="rocket">🚀</span>
   <span role="img" aria-label="sparkles">✨</span>
 </h1>
-```
+
 ---
 <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
 <!--                      Fancy Anime Banner                      -->
