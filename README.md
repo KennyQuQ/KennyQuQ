@@ -1,9 +1,6 @@
 <h1 align="center">
   Hi there, I'm Kenny 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="Wave" />
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="35" alt="Smile" />
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="35" alt="Party" />
-  <span role="img" aria-label="rocket">🚀</span>
   <span role="img" aria-label="sparkles">✨</span>
 </h1>
 
