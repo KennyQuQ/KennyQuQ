@@ -34,7 +34,7 @@
       <td align="center" style="padding:10px;"><strong>Education</strong></td>
       <td align="center" style="padding:10px;">
         <!-- Example badge with gradient from purple to pink -->
-        <img src="https://img.shields.io/badge/Sophomore-College-%23ff66ff?style=for-the-badge&amp;logoColor=white&amp;colorA=%235e5ce6&amp;colorB=%23ee66aa" alt="Sophomore" />
+        <img src="https://img.shields.io/badge/Sophomore-UMSJTU%20JI-%23ff66ff?style=for-the-badge&amp;logoColor=white&amp;colorA=%235e5ce6&amp;colorB=%23ee66aa" alt="Sophomore" />
       </td>
     </tr>
     <!-- Interests (OS, Systems) -->
