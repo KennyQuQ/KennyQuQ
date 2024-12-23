@@ -116,8 +116,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KennyQuQ&layout=compact&theme=dracula" />
 </a>
 
-> *Replace `KennyQuQ` with your actual GitHub username. For more customization, visit the [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) repo.*
-
 ---
 
 ### 🔥 Streak Stats
@@ -125,8 +123,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KennyQuQ&theme=dark" alt="Your GitHub streak stats" />
 </p>
-
-> *This is another popular stats card. Check out [GitHub Readme Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats).*
 
 ---
 
@@ -136,16 +132,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KennyQuQ&repo=your-project&theme=radical" />
 </a>
 
-- **[Project Name](#)**: Brief description of your project.  
-- **[Another Project](#)**: Another brief description.
+- **[Project Name](#)**:
 
 ---
 
 ### 🏆 Certifications & Achievements
 
 - **Course / Bootcamp / Award**  
-- **Hackathon Winner** or **Top 10** in [Event Name]  
-- **Open Source Contributions** to [Project Name], etc.
 
 ---
 
