@@ -108,15 +108,6 @@
   </tbody>
 </table>
 
-### 🛠️ Tech & Tools Preference
-
-<img src="https://img.shields.io/badge/OS-Linux-blue?logo=linux&logoColor=white" />  
-<img src="https://img.shields.io/badge/Editor-VSCode-blue?logo=visual-studio-code&logoColor=white" />  
-<img src="https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript&logoColor=white" />  
-<img src="https://img.shields.io/badge/Tools-Git-blue?logo=git&logoColor=white" />  
-
-> *Add as many or as few badges as you like. You can generate them from [Shields.io](https://shields.io/) or search for “tech badges GitHub readme.”*
-
 ---
 
 ### 📊 GitHub Stats
