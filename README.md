@@ -1,31 +1,12 @@
-<style>
-  .animated-text {
-    animation: colorChange 5s infinite;
-  }
-
-  @keyframes colorChange {
-    0% { color: #ff66ff; }
-    25% { color: #ee66aa; }
-    50% { color: #66ccff; }
-    75% { color: #99ff99; }
-    100% { color: #ff66ff; }
-  }
-
-  .animated-gif {
-    transition: transform 0.5s;
-  }
-
-  .animated-gif:hover {
-    transform: scale(1.2);
-  }
-</style>
-
-<h1 align="center" class="animated-text">
+<h1 align="center">
   Hi there, I'm Kenny 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="Wave" class="animated-gif" />
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="35" alt="Smile" class="animated-gif" />
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="35" alt="Party" class="animated-gif" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="Wave" />
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="35" alt="Smile" />
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="35" alt="Party" />
+  <span role="img" aria-label="rocket">🚀</span>
+  <span role="img" aria-label="sparkles">✨</span>
 </h1>
+```
 ---
 <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
 <!--                      Fancy Anime Banner                      -->
