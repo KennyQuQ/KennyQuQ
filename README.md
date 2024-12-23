@@ -45,7 +45,8 @@
       <td align="center" style="padding:10px;"><strong>Domain Knowledge</strong></td>
       <td align="center" style="padding:10px;">
         <img src="https://img.shields.io/badge/Computer%20Science-ff9900?style=flat-square" alt="Computer Science" />
-        <img src="https://img.shields.io/badge/Electrical%20Engineering-0052cc?style=flat-square" alt="EE" />
+        <img src="https://img.shields.io/badge/Computer%20Engineering-ff9900?style=flat-square" alt="Computer Engineering" />
+        <img src="https://img.shields.io/badge/Electrical%20Engineering-0052cc?style=flat-square" alt="Electrical Engineering" />
       </td>
     </tr>
     <tr>
