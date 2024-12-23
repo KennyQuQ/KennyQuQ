@@ -37,7 +37,6 @@
         <img src="https://img.shields.io/badge/Sophomore-College-%23ff66ff?style=for-the-badge&amp;logoColor=white&amp;colorA=%235e5ce6&amp;colorB=%23ee66aa" alt="Sophomore" />
       </td>
     </tr>
-    
     <!-- Interests (OS, Systems) -->
     <tr>
       <td align="center" style="padding:10px;"><strong>Interests</strong></td>
@@ -47,7 +46,6 @@
         <!-- Add more badges for your specific OS/system interests -->
       </td>
     </tr>
-
     <!-- Language / IDE -->
     <tr>
       <td align="center" style="padding:10px;"><strong>Language / IDE</strong></td>
@@ -60,7 +58,6 @@
         <img src="https://img.shields.io/badge/Neovim-white?style=for-the-badge&amp;logo=neovim&amp;logoColor=white&amp;colorA=%2357A143&amp;colorB=%23306028" alt="Neovim" />
       </td>
     </tr>
-
     <!-- Domain Knowledge -->
     <tr>
       <td align="center" style="padding:10px;"><strong>Domain Knowledge</strong></td>
@@ -70,7 +67,6 @@
         <img src="https://img.shields.io/badge/Electrical%20Engineering-white?style=for-the-badge&amp;colorA=%230052cc&amp;colorB=%23003999" alt="Electrical Engineering" />
       </td>
     </tr>
-
     <!-- CI / CD -->
     <tr>
       <td align="center" style="padding:10px;"><strong>CI / CD</strong></td>
@@ -80,7 +76,6 @@
         <img src="https://img.shields.io/badge/Git-white?style=for-the-badge&amp;logo=git&amp;colorA=%23F05032&amp;colorB=%23A0261E" alt="Git" />
       </td>
     </tr>
-
     <!-- OS -->
     <tr>
       <td align="center" style="padding:10px;"><strong>OS</strong></td>
@@ -92,7 +87,6 @@
         <img src="https://img.shields.io/badge/Windows-white?style=for-the-badge&amp;logo=windows&amp;colorA=%230078D6&amp;colorB=%23004982" alt="Windows" />
       </td>
     </tr>
-
     <!-- Terminal -->
     <tr>
       <td align="center" style="padding:10px;"><strong>Terminal</strong></td>
