@@ -24,12 +24,6 @@
 <!--                      Fancy Info Table                         -->
 <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
 <table align="center">
-  <thead>
-    <tr>
-      <th style="text-align:center; padding:8px; border-bottom:2px solid #4f4f4f;">Property</th>
-      <th style="text-align:center; padding:8px; border-bottom:2px solid #4f4f4f;">Data</th>
-    </tr>
-  </thead>
   <tbody>
     <!-- Education (Sophomore) -->
     <tr>
