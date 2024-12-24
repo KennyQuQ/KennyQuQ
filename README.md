@@ -9,9 +9,9 @@
 <!--                      Fancy Anime Banner                      -->
 <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
 <h2 align="center" style="border-bottom: none;">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/path/to/character1.png" width="60" alt="char1"/>
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/path/to/character2.png" width="60" alt="char2"/>
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/path/to/character3.png" width="60" alt="char3"/>
+  <img src="https://raw.githubusercontent.com/KennyQuQ/KennyQuQ/main/assets/ground_pound.gif" width="60" alt="char1"/>
+  <img src="https://raw.githubusercontent.com/KennyQuQ/KennyQuQ/main/assets/ground_pound.gif" width="60" alt="char2"/>
+  <img src="https://raw.githubusercontent.com/KennyQuQ/KennyQuQ/main/assets/ground_pound.gif" width="60" alt="char3"/>
   <!-- Add more characters as needed -->
 </h2>
 
