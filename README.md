@@ -1,10 +1,11 @@
 <h1 align="center">
-  Hi there, I'm Kenny 
+  Hi there, I'm Kenny
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="Wave" />
   <span role="img" aria-label="sparkles">✨</span>
 </h1>
 
 ---
+
 <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
 <!--                      Fancy Anime Banner                      -->
 <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
@@ -59,7 +60,6 @@
       <td align="center" style="padding:10px;"><strong>IDE</strong></td>
       <td align="center" style="padding:10px;">
         <img src="https://img.shields.io/badge/VS%20Code-white?style=for-the-badge&amp;logo=visual-studio-code&amp;logoColor=white&amp;colorA=%23007ACC&amp;colorB=%23005580" alt="VSCode" />
-        <img src="https://img.shields.io/badge/Vim-white?style=for-the-badge&amp;logo=vim&amp;logoColor=white&amp;colorA=%23019733&amp;colorB=%23008055" alt="Vim" />
         <img src="https://img.shields.io/badge/Neovim-white?style=for-the-badge&amp;logo=neovim&amp;logoColor=white&amp;colorA=%2357A143&amp;colorB=%23306028" alt="Neovim" />
         <!-- Add more IDE badges if needed -->
       </td>
@@ -70,7 +70,7 @@
       <td align="center" style="padding:10px;">
         <img src="https://img.shields.io/badge/Computer%20Science-white?style=for-the-badge&amp;colorA=%23ff9900&amp;colorB=%23b36200" alt="Computer Science" />
         <img src="https://img.shields.io/badge/Computer%20Engineering-white?style=for-the-badge&amp;colorA=%23f56f00&amp;colorB=%23b34700" alt="Computer Engineering" />
-        <img src="https://img.shields.io/badge/Electrical%20Engineering-white?style=for-the-badge&amp;colorA=%230052cc&amp;colorB=%23003999" alt="Electrical Engineering" />
+        <img src="https://img.shields.io/badge/Mechanical%20Engineering-white?style=for-the-badge&amp;colorA=%230052cc&amp;colorB=%23003999" alt="Mechanical Engineering" />
       </td>
     </tr>
     <!-- CI / CD -->
@@ -78,7 +78,6 @@
       <td align="center" style="padding:10px;"><strong>CI / CD</strong></td>
       <td align="center" style="padding:10px;">
         <img src="https://img.shields.io/badge/Markdown-white?style=for-the-badge&amp;logo=markdown&amp;colorA=%23000000&amp;colorB=%23424242" alt="Markdown" />
-        <img src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&amp;logo=github&amp;colorA=%23181717&amp;colorB=%230E0E0E" alt="GitHub" />
         <img src="https://img.shields.io/badge/Git-white?style=for-the-badge&amp;logo=git&amp;colorA=%23F05032&amp;colorB=%23A0261E" alt="Git" />
       </td>
     </tr>
@@ -137,16 +136,16 @@
 
 ### 🏆 Certifications & Achievements
 
-- **Course / Bootcamp / Award**  
+- **Course / Bootcamp / Award**
 
 ---
 
 ### 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:yourmail@domain.com"><img src="https://img.shields.io/badge/Email-c14438?style=flat&logo=mail.ru&logoColor=white" /></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1ca0f1?style=flat&logo=twitter&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/KennyOwO"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:spkennypro@gmail.com"><img src="https://img.shields.io/badge/Email-c14438?style=flat&logo=mail.ru&logoColor=white" /></a>
+  <a href="https://twitter.com/kennyqwq"><img src="https://img.shields.io/badge/Twitter-1ca0f1?style=flat&logo=twitter&logoColor=white" /></a>
 </p>
 
 ---
