@@ -35,7 +35,7 @@
     <tr>
       <td align="center" style="padding:10px;"><strong>Interests</strong></td>
       <td align="center" style="padding:10px;">
-<img src="https://img.shields.io/badge/Game_Development-%23ffffff?style=for-the-badge&logo=unity&logoColor=white&colorA=%231e293b&colorB=%230f172a" alt="Game Development" />
+        <img src="https://img.shields.io/badge/Game_Development-%23ffffff?style=for-the-badge&logo=unity&logoColor=white&colorA=%231e293b&colorB=%230f172a" alt="Game Development" />
         <img src="https://img.shields.io/badge/System%20Software-%23ffffff?style=for-the-badge&amp;logo=linux&amp;logoColor=black&amp;colorA=%2305c9f9&amp;colorB=%2300d09c" alt="System Software" />
         <img src="https://img.shields.io/badge/Embedded%20System-%23ffffff?style=for-the-badge&amp;logo=c&amp;logoColor=black&amp;colorA=%23f93ebd&amp;colorB=%2376308f" alt="Embedded System" />
       </td>
@@ -44,6 +44,7 @@
       <td align="center" style="padding:10px;"><strong>Language</strong></td>
       <td align="center" style="padding:10px;">
         <img src="https://img.shields.io/badge/C++-white?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=white&amp;colorA=%2300599C&amp;colorB=%23004373" alt="C++" />
+        <img src="https://img.shields.io/badge/C%23-white?style=for-the-badge&logo=c-sharp&logoColor=white&colorA=%231e1e1e&colorB=%230d0d0d" alt="C#" />
         <img src="https://img.shields.io/badge/Elm-white?style=for-the-badge&amp;logo=elm&amp;logoColor=white&amp;colorA=%2360B5CC&amp;colorB=%23215785" alt="Elm" />
         <img src="https://img.shields.io/badge/Python-white?style=for-the-badge&amp;logo=python&amp;logoColor=white&amp;colorA=%233776AB&amp;colorB=%232d5884" alt="Python" />
         <img src="https://img.shields.io/badge/Verilog-white?style=for-the-badge&amp;logo=verilog&amp;logoColor=white&amp;colorA=%23E34F26&amp;colorB=%23C0392B" alt="Verilog" />
