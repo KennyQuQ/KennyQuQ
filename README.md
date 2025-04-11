@@ -26,24 +26,19 @@
 <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
 <table align="center">
   <tbody>
-    <!-- Education (Sophomore) -->
     <tr>
       <td align="center" style="padding:10px;"><strong>Education</strong></td>
       <td align="center" style="padding:10px;">
-        <!-- Example badge with gradient from purple to pink -->
         <img src="https://img.shields.io/badge/Sophomore-UMSJTU%20JI-%23ff66ff?style=for-the-badge&amp;logoColor=white&amp;colorA=%235e5ce6&amp;colorB=%23ee66aa" alt="Sophomore" />
       </td>
     </tr>
-    <!-- Interests (OS, Systems) -->
     <tr>
       <td align="center" style="padding:10px;"><strong>Interests</strong></td>
       <td align="center" style="padding:10px;">
-        <img src="https://img.shields.io/badge/Operating%20Systems-%23ffffff?style=for-the-badge&amp;logo=linux&amp;logoColor=black&amp;colorA=%2305c9f9&amp;colorB=%2300d09c" alt="OS" />
-        <img src="https://img.shields.io/badge/System%20Programming-%23ffffff?style=for-the-badge&amp;logo=c&amp;logoColor=black&amp;colorA=%23f93ebd&amp;colorB=%2376308f" alt="System Programming" />
-        <!-- Add more badges for your specific OS/system interests -->
+        <img src="https://img.shields.io/badge/System%20Software-%23ffffff?style=for-the-badge&amp;logo=linux&amp;logoColor=black&amp;colorA=%2305c9f9&amp;colorB=%2300d09c" alt="System Software" />
+        <img src="https://img.shields.io/badge/Embedded%20System-%23ffffff?style=for-the-badge&amp;logo=c&amp;logoColor=black&amp;colorA=%23f93ebd&amp;colorB=%2376308f" alt="Embedded System" />
       </td>
     </tr>
-   <!-- Language -->
     <tr>
       <td align="center" style="padding:10px;"><strong>Language</strong></td>
       <td align="center" style="padding:10px;">
@@ -55,7 +50,6 @@
         <img src="https://img.shields.io/badge/Assembly-white?style=for-the-badge&amp;logo=assembly&amp;logoColor=white&amp;colorA=%23E60026&amp;colorB=%23CC0000" alt="Assembly" />
       </td>
     </tr>
-    <!-- IDE -->
     <tr>
       <td align="center" style="padding:10px;"><strong>IDE</strong></td>
       <td align="center" style="padding:10px;">
@@ -64,7 +58,6 @@
         <!-- Add more IDE badges if needed -->
       </td>
     </tr>
-    <!-- Domain Knowledge -->
     <tr>
       <td align="center" style="padding:10px;"><strong>Domain Knowledge</strong></td>
       <td align="center" style="padding:10px;">
@@ -73,7 +66,6 @@
         <img src="https://img.shields.io/badge/Mechanical%20Engineering-white?style=for-the-badge&amp;colorA=%230052cc&amp;colorB=%23003999" alt="Mechanical Engineering" />
       </td>
     </tr>
-    <!-- CI / CD -->
     <tr>
       <td align="center" style="padding:10px;"><strong>CI / CD</strong></td>
       <td align="center" style="padding:10px;">
@@ -81,7 +73,6 @@
         <img src="https://img.shields.io/badge/Git-white?style=for-the-badge&amp;logo=git&amp;colorA=%23F05032&amp;colorB=%23A0261E" alt="Git" />
       </td>
     </tr>
-    <!-- OS -->
     <tr>
       <td align="center" style="padding:10px;"><strong>OS</strong></td>
       <td align="center" style="padding:10px;">
