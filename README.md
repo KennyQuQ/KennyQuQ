@@ -35,6 +35,7 @@
     <tr>
       <td align="center" style="padding:10px;"><strong>Interests</strong></td>
       <td align="center" style="padding:10px;">
+<img src="https://img.shields.io/badge/Game_Development-%23ffffff?style=for-the-badge&logo=game&logoColor=white&colorA=%231e293b&colorB=%230f172a" alt="Game Development" />
         <img src="https://img.shields.io/badge/System%20Software-%23ffffff?style=for-the-badge&amp;logo=linux&amp;logoColor=black&amp;colorA=%2305c9f9&amp;colorB=%2300d09c" alt="System Software" />
         <img src="https://img.shields.io/badge/Embedded%20System-%23ffffff?style=for-the-badge&amp;logo=c&amp;logoColor=black&amp;colorA=%23f93ebd&amp;colorB=%2376308f" alt="Embedded System" />
       </td>
