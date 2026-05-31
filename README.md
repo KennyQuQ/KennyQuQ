@@ -22,7 +22,7 @@
     <tr>
       <td align="center" style="padding:10px;"><strong>Education</strong></td>
       <td align="center" style="padding:10px;">
-        <img src="https://img.shields.io/badge/Dual%20Degree-ME%20%2B%20CompE%20%40%20SJTU--UMich%20JI-%23ff66ff?style=for-the-badge&amp;logoColor=white&amp;colorA=%235e5ce6&amp;colorB=%23ee66aa" alt="Dual Degree" />
+        <img src="https://img.shields.io/badge/Dual%20Degree-Mech%20Eng%20%2B%20Comp%20Eng%20%40%20SJTU--UMich-%23ff66ff?style=for-the-badge&amp;logoColor=white&amp;colorA=%235e5ce6&amp;colorB=%23ee66aa" alt="Dual Degree" />
       </td>
     </tr>
     <tr>
