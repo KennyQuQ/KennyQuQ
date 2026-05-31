@@ -22,13 +22,13 @@
     <tr>
       <td align="center" style="padding:10px;"><strong>Education</strong></td>
       <td align="center" style="padding:10px;">
-        <img src="https://img.shields.io/badge/Dual%20Degree-ME%20%2B%20CompE%20%40%20UM--SJTU%20JI-%23ff66ff?style=for-the-badge&amp;logoColor=white&amp;colorA=%235e5ce6&amp;colorB=%23ee66aa" alt="Dual Degree" />
+        <img src="https://img.shields.io/badge/Dual%20Degree-ME%20%2B%20CompE%20%40%20SJTU--UMich%20JI-%23ff66ff?style=for-the-badge&amp;logoColor=white&amp;colorA=%235e5ce6&amp;colorB=%23ee66aa" alt="Dual Degree" />
       </td>
     </tr>
     <tr>
       <td align="center" style="padding:10px;"><strong>Research</strong></td>
       <td align="center" style="padding:10px;">
-        <img src="https://img.shields.io/badge/SystemsLab-Programmable%20Networking%20%26%20Cloud-white?style=for-the-badge&amp;logo=linux&amp;logoColor=white&amp;colorA=%2305c9f9&amp;colorB=%2300d09c" alt="SystemsLab" />
+        <img src="https://img.shields.io/badge/SystemsLab-System%20Networking%20%26%20Cloud-white?style=for-the-badge&amp;logo=linux&amp;logoColor=white&amp;colorA=%2305c9f9&amp;colorB=%2300d09c" alt="SystemsLab" />
         <img src="https://img.shields.io/badge/SIX%20Lab-HCI%20%26%20Wearable%20Sensing-white?style=for-the-badge&amp;colorA=%23f93ebd&amp;colorB=%2376308f" alt="SIX Lab" />
       </td>
     </tr>
