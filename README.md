@@ -29,7 +29,7 @@
     <tr>
       <td align="center" style="padding:10px;"><strong>Research</strong></td>
       <td align="center" style="padding:10px;">
-        <img src="https://img.shields.io/badge/SystemsLab-System%20Networking%20%26%20Cloud-white?style=for-the-badge&amp;logo=linux&amp;logoColor=white&amp;colorA=%2305c9f9&amp;colorB=%2300d09c" alt="SystemsLab" />
+        <img src="https://img.shields.io/badge/SystemsLab-System%20%26%20Networking-white?style=for-the-badge&amp;logo=linux&amp;logoColor=white&amp;colorA=%2305c9f9&amp;colorB=%2300d09c" alt="SystemsLab" />
         <img src="https://img.shields.io/badge/SIX%20Lab-HCI%20%26%20Wearable%20Sensing-white?style=for-the-badge&amp;colorA=%23f93ebd&amp;colorB=%2376308f" alt="SIX Lab" />
       </td>
     </tr>
