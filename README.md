@@ -6,7 +6,7 @@
 
 ---
 
-align="center" style="border-bottom: none;">
+<h2 align="center" style="border-bottom: none;">
   <img src="https://raw.githubusercontent.com/KennyQuQ/KennyQuQ/main/assets/neuro_flip.gif" width="70" alt="neuro"/>
   <img src="https://raw.githubusercontent.com/KennyQuQ/KennyQuQ/main/assets/ground_pound_0.gif" width="100" alt="ame"/>
   <img src="https://raw.githubusercontent.com/KennyQuQ/KennyQuQ/main/assets/ground_pound_1.gif" width="100" alt="ame"/>
