@@ -7,14 +7,14 @@
 ---
 
 <h2 align="center" style="border-bottom: none;">
-  <img src="https://raw.githubusercontent.com/KennyQuQ/KennyQuQ/main/assets/neuro_flip.gif" width="70" alt="neuro"/>
+  <img src="https://raw.githubusercontent.com/KennyQuQ/KennyQuQ/main/assets/kanade_flip.gif" width="70" alt="kanade"/>
   <img src="https://raw.githubusercontent.com/KennyQuQ/KennyQuQ/main/assets/ground_pound_0.gif" width="100" alt="ame"/>
   <img src="https://raw.githubusercontent.com/KennyQuQ/KennyQuQ/main/assets/ground_pound_1.gif" width="100" alt="ame"/>
   <img src="https://raw.githubusercontent.com/KennyQuQ/KennyQuQ/main/assets/ground_pound_2.gif" width="100" alt="ame"/>
   <img src="https://raw.githubusercontent.com/KennyQuQ/KennyQuQ/main/assets/ground_pound_3.gif" width="100" alt="ame"/>
   <img src="https://raw.githubusercontent.com/KennyQuQ/KennyQuQ/main/assets/ground_pound_4.gif" width="100" alt="ame"/>
   <img src="https://raw.githubusercontent.com/KennyQuQ/KennyQuQ/main/assets/ground_pound_5.gif" width="100" alt="ame"/>
-  <img src="https://raw.githubusercontent.com/KennyQuQ/KennyQuQ/main/assets/neuro.gif" width="70" alt="neuro"/>
+  <img src="https://raw.githubusercontent.com/KennyQuQ/KennyQuQ/main/assets/kanade.gif" width="70" alt="kanade"/>
 </h2>
 
 <table align="center">
